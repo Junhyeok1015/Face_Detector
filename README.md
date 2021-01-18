@@ -1,6 +1,6 @@
 # 얼굴인식(SNOW) 카메라 - Ryan ver.
 
-## Procedure
+# Procedure
 ### 1. Face Detection
 ![Face Detection](https://user-images.githubusercontent.com/18099627/104862674-10a28a00-5977-11eb-91ab-26a51ebb12a9.gif)
 
